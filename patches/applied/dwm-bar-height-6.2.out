@@ -1,0 +1,5 @@
+patching file config.def.h
+Hunk #1 FAILED at 5.
+1 out of 1 hunk FAILED -- saving rejects to file config.def.h.rej
+patching file dwm.c
+Hunk #1 succeeded at 1562 (offset 17 lines).
