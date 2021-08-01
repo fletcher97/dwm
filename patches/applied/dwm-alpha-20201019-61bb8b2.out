@@ -1,0 +1,5 @@
+patching file config.def.h
+patching file config.mk
+patching file drw.c
+patching file drw.h
+patching file dwm.c
