@@ -1,0 +1,10 @@
+patching file config.def.h
+Hunk #1 succeeded at 102 (offset 8 lines).
+patching file dwm.1
+patching file dwm.c
+Hunk #1 succeeded at 208 (offset 3 lines).
+Hunk #2 succeeded at 266 (offset 4 lines).
+Hunk #3 succeeded at 1260 (offset 9 lines).
+Hunk #4 succeeded at 1549 (offset 9 lines).
+Hunk #5 succeeded at 1654 (offset 10 lines).
+Hunk #6 succeeded at 2215 with fuzz 1 (offset 55 lines).
