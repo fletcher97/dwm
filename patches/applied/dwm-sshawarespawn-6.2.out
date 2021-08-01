@@ -1,0 +1,18 @@
+patching file config.def.h
+Hunk #1 succeeded at 77 (offset 15 lines).
+patching file config.mk
+Hunk #1 FAILED at 19.
+1 out of 1 hunk FAILED -- saving rejects to file config.mk.rej
+patching file dwm.c
+Hunk #3 succeeded at 103 (offset 2 lines).
+Hunk #4 succeeded at 167 (offset 2 lines).
+Hunk #5 succeeded at 186 with fuzz 1 (offset 4 lines).
+Hunk #6 succeeded at 223 with fuzz 2 (offset 5 lines).
+Hunk #7 succeeded at 249 (offset 6 lines).
+Hunk #8 succeeded at 288 with fuzz 2 (offset 6 lines).
+Hunk #9 succeeded at 603 (offset 12 lines).
+Hunk #10 succeeded at 992 (offset 20 lines).
+Hunk #11 succeeded at 1129 (offset 20 lines).
+Hunk #12 succeeded at 1769 with fuzz 1 (offset 46 lines).
+Hunk #13 succeeded at 2251 (offset 58 lines).
+Hunk #14 succeeded at 2402 (offset 95 lines).
